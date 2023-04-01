@@ -1,0 +1,40 @@
+.shangpintop{
+    height: 27px;
+    background: #f2f2f2;
+}
+.shangpintop-1{
+    width: 700px;
+    height: 26px;
+    margin-top: 0px;
+    font-size: small;
+    display: inline-block;
+    vertical-align: top; 
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.shangpintop-1 a{
+    color: #999999;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.shangpintop-1 a:hover{
+    color: #fc8d07;
+}
+.shangpintop-2{
+    width: 700px;
+    height: 26px;
+    margin-top: 0px;
+    font-size: small;
+    display: inline-block;
+    vertical-align: top;
+}
+.shangpintop-2 a{
+    color: #999999;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.shangpintop-2 a:hover{
+    color: #fc8d07;
+}

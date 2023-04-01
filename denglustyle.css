@@ -1,0 +1,119 @@
+.denglubac{
+    height: 1637px;
+    width: 1464px;
+    background-image:url("img/denglubac1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.denglutop{
+    height: 80px;
+}
+.denglulogal{
+    height: 70px;
+    padding: 0 0 0 0;
+}
+denglutopr{
+    padding: 0 0 0 0;
+
+}
+.wza{
+    display: block;
+    position: relative;
+    width: 300px;
+    right: -432px;
+    top: 10px;
+    text-decoration: none;
+    color: #666666;
+}
+.wza:hover{
+    color: #fc8d07;
+}
+.jy{
+    display: block;
+    width: 300px;
+    position: relative;
+    right: -432px;
+    top: 2px;
+    text-decoration: none;
+    color: #666666;
+}
+.jy:hover{
+    color: #fc8d07;
+}
+.jjytext{
+    width: 700px;
+    font-size: 100px;
+    background-image:-webkit-linear-gradient(bottom,red,#fd8403,yellow);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+.denglukuang{
+    height: 350px;
+    width: 350px;
+    padding: 25px 25px 23px;
+    background-color:rgba(255,255,240,0.5);
+    position: relative;
+    left: 70%;
+}
+.yonghuming{
+    width: 300px;
+    height: 42px;
+    background: #ffffff;
+    border:1px solid #ccc;
+    border-color: #f1eeee;
+    position: relative;
+    top: 30px;
+    outline: none;
+}
+.mima\/yanzheng{
+    width: 300px;
+    height: 42px;
+    background: #ffffff;
+    border:1px solid #ccc;
+    border-color: #f1eeee;
+    position: relative;
+    top: 55px;
+    outline: none;
+    vertical-align: top;
+    display: inline-block;
+}
+.qiehuanmima{
+    border: none;
+    background: none;
+    color: #fc8d07;
+}
+.qiehuanduanxin{
+    border: none;
+    background: none;
+    color: black;
+}
+.denglujian{
+    width: 300px;
+    height: 42px;
+    background: #ff4400;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    top: 80px;
+}
+.huoquyanzhengma{
+    height: 42px;
+    width: 80px;
+    border:1px solid #ccc;
+    border-color: #f1eeee;
+    position: relative;
+    top: 55px;
+    vertical-align: top;
+    display: none;
+    font-size: small;
+}
+.di{
+    position: relative;
+    top:1200px;
+
+}
